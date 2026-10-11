@@ -1,0 +1,303 @@
+{
+  "world_bible": {
+    "series_title": "Aetheria Chronicles",
+    "world_name": "Aetheria",
+    "kingdom": {
+      "name": "Aldoria",
+      "capital": "Aurelian",
+      "government_type": "Constitutional-feudal monarchy in decline",
+      "current_ruler": {
+        "name": "King Aldric Aldor III",
+        "status": "Alive but gravely ill — rarely seen in public, decisions increasingly deferred to the Noble Council",
+        "age": 58,
+        "note": "Elara's father. His illness is the political vacuum Varen exploits."
+      },
+      "heir": "Princess Elara Aldor",
+      "population": "Approximately 2.1 million across the kingdom, 180,000 in the capital",
+      "motto": "\"By Stone and Crystal, We Endure\"",
+      "sigil": "A silver tower over a blue crystal on a field of dark green"
+    },
+    "geography": {
+      "overview": "Aldoria occupies a central position on the continent of Aetheria, bordered by mountains to the north, a rival kingdom to the east, a trade coast to the west, and an ancient forest to the south. Its central location made it wealthy during the Age of Concord but now makes it vulnerable — every neighbor wants a piece.",
+      "terrain": [
+        "Northern Ironveil Mountains — rich in mana crystal deposits, harsh climate, sparse population",
+        "Central Aurelian Plain — farmland, the capital city, most of the population",
+        "Western Ashen Coast — port cities, fishing, trade with overseas powers",
+        "Southern Thornwood — ancient forest, source of rare alchemical reagents, home to isolated communities",
+        "Eastern Thornwall Ridge — natural defensive border against the Kingdom of Veldrath"
+      ],
+      "climate": "Temperate in the center, cold in the north, mild and wet on the coast, humid in the south",
+      "natural_resources": [
+        "Mana crystals (the kingdom's lifeblood)",
+        "Iron and copper (northern mines)",
+        "Grain and livestock (central plains)",
+        "Timber and rare herbs (southern forest)",
+        "Fish and salt (western coast)"
+      ]
+    },
+    "economy": {
+      "overview": "Aldoria's economy was built on mana crystal export. For two centuries, the kingdom held a near-monopoly on refined mana crystals, which power everything from street lamps to war golems. But the mines are depleting, rival kingdoms have discovered their own deposits, and the Crown has borrowed heavily against future crystal revenues. The kingdom is functionally bankrupt — the royal treasury has less than three months of operating capital, a fact known only to a handful of people.",
+      "key_industries": [
+        "Mana crystal mining and refinement (declining)",
+        "Agriculture (stagnant due to feudal land practices)",
+        "Maritime trade (increasingly dominated by foreign merchants)",
+        "Artisan crafts (struggling against cheaper imports)"
+      ],
+      "currency": "Aldorian crown (gold), silver mark, copper penny. Paper notes exist but are distrusted outside the capital.",
+      "economic_problems": [
+        "Crown debt to foreign bankers and domestic noble houses",
+        "Mana crystal veins are thinning — the northern mines are producing 40% less than a decade ago",
+        "Feudal land laws prevent commoners from owning land, suppressing agricultural productivity",
+        "The Merchant Guild has grown powerful enough to challenge noble authority",
+        "Inflation — the crown has been debasing coinage for years to pay debts",
+        "Rival kingdom Veldrath is undercutting Aldorian crystal prices"
+      ],
+      "kaitos_role": "Kaito sees the economy as a system to be restructured — not through magic or war, but through trade policy, tax reform, infrastructure investment, and breaking the feudal monopolies that strangle productivity."
+    },
+    "magic_system": {
+      "name": "Crystalmancy",
+      "overview": "Magic in Aetheria is not innate — it is drawn from mana crystals, which absorb ambient magical energy from the earth over centuries. Raw crystals are mined, refined, and then either installed in infrastructure (lamps, heating systems, water pumps, defensive wards) or consumed by mages for spellcasting. The system is closer to a utility network than traditional fantasy magic.",
+      "mana_crystals": {
+        "formation": "Crystals grow in underground veins over 200-500 years. They absorb ambient mana from deep earth currents.",
+        "grades": [
+          {
+            "grade": "Common (Cloudy)",
+            "use": "Street lamps, heating, basic tools",
+            "abundance": "Common but depleting"
+          },
+          {
+            "grade": "Clear (Refined)",
+            "use": "Military wards, medical magic, long-range communication",
+            "abundance": "Uncommon — requires significant refining"
+          },
+          {
+            "grade": "Resonant (High)",
+            "use": "War golems, city-wide defensive barriers, healing critical wounds",
+            "abundance": "Rare — found only in the deepest northern mines"
+          },
+          {
+            "grade": "Aetherial (Prime)",
+            "use": "Legendary — capable of feats that reshape terrain or alter weather. Only three known to exist, all held by the Crown.",
+            "abundance": "Almost mythical"
+          }
+        ],
+        "depletion": "Crystals are not renewable on a human timescale. Once a vein is mined out, it is gone. This is the kingdom's ticking clock."
+      },
+      "who_controls_it": {
+        "crown": "Owns all mineral rights in theory. Grants mining licenses to noble houses in practice. The Royal Crystal Reserve (the Crown's stockpile) is the kingdom's strategic reserve — and it is running low.",
+        "noble_council": "Several noble houses hold hereditary mining licenses. House Duskwood controls the largest single share of northern mines.",
+        "merchant_guild": "Controls refinement and distribution. Without Guild refineries, raw crystals are just pretty rocks.",
+        "church": "Claims moral authority over crystal use — teaches that mana is a gift from the Divine that must not be hoarded. This doctrine conveniently challenges noble monopolies and makes the Church a potential ally for reformists.",
+        "common_folk": "Consume crystal-powered services but have no ownership. Many resents the nobility for controlling the lifeblood of daily life."
+      },
+      "limitations": [
+        "Crystals deplete — there is no infinite energy",
+        "Refinement is expensive and requires specialized Guild facilities",
+        "Using a crystal for one purpose consumes its stored energy — it cannot be used for everything at once",
+        "Mages who channel crystal energy directly suffer physical exhaustion and, with overuse, crystalization of their own tissues (a fatal condition called the Glass Lung)",
+        "Crystal-powered weapons and wards can be disrupted by resonant counter-frequencies — a rare but known military technique"
+      ],
+      "kaitos_angle": "Kaito understands mana crystals as an energy economy — supply chains, infrastructure dependencies, and strategic reserves. He sees the depletion crisis not as a magical problem but as a resource management problem. This perspective is alien to nobles who think in terms of tradition and honor."
+    },
+    "factions": {
+      "the_crown": {
+        "leader": "King Aldric Aldor III (incapacitated), Princess Elara Aldor (acting heir)",
+        "base": "The Royal Castle of Aldoria in Aurelian",
+        "goals": "Preserve the kingdom, maintain the monarchy, pay off the debt without surrendering sovereignty",
+        "resources": "Royal Crystal Reserve (depleting), the Royal Guard (underfunded), legal authority (eroding)",
+        "weaknesses": "Bankrupt, no standing army to speak of, king's illness creates leadership vacuum",
+        "relationship_with_kaito": "Elara sees Kaito as her last hope. The court sees him as an upstart."
+      },
+      "the_noble_council": {
+        "leader": "Lord Varen Duskwood (Head of Council)",
+        "base": "The Council Chamber of Nobles, Royal Castle",
+        "members": "Seven great houses: Duskwood, Harrow, Vane, Ferrow, Morcant, Ashby, and Ravencourt",
+        "goals": "Preserve feudal privileges, block economic reform, weaken Crown authority",
+        "resources": "Private armies, hereditary mining rights, land, wealth (though many houses are also debt-ridden)",
+        "weaknesses": "Internally divided — not all houses support Varen's ambition. Some fear him.",
+        "relationship_with_kaito": "Varen views Kaito as a threat to the entire feudal order. Other nobles are curious, dismissive, or quietly desperate enough to listen."
+      },
+      "the_merchant_guild": {
+        "leader": "Guildmaster Sera Voss (elected, serves for life)",
+        "base": "The Silver District, Aurelian",
+        "goals": "Expand trade, reduce noble interference in commerce, secure favorable tariffs",
+        "resources": "Control of refinement facilities, trade networks, information networks, liquid capital",
+        "weaknesses": "Legally barred from owning land or titles — entirely dependent on Crown charters. If the Crown revokes their charter, they are ruined.",
+        "relationship_with_kaito": "Cautiously optimistic. Kaito speaks their language. But they will betray him if he becomes a liability."
+      },
+      "the_church_of_the_crystal": {
+        "leader": "High Confessor Maren Halvor",
+        "base": "The Cathedral of the First Crystal, Aurelian",
+        "goals": "Moral authority, protection of common folk, check on noble excess",
+        "resources": "Popular support among commoners, ancient texts, healing magic, the Confessors (spies and diplomats in one)",
+        "weaknesses": "Doctrinally opposed to concentrated wealth, which puts them at odds with both nobles and merchants. No military power.",
+        "relationship_with_kaito": "Interested. Kaito's reforms align with their social doctrine, but he is an outsider and potentially a heretic."
+      },
+      "the_common_folk": {
+        "leader": "No unified leader — scattered guilds, village elders, and folk heroes",
+        "base": "The Rusted Gate, farming villages, mining towns",
+        "goals": "Survival, lower taxes, land ownership, dignity",
+        "resources": "Labor, numbers, knowledge of the land, resentment",
+        "weaknesses": "Disorganized, easily divided, no legal power",
+        "relationship_with_kaito": "Unaware of him at first. As his reforms trickle down (or fail to), they will become the swing factor in whether Aldoria holds together."
+      }
+    },
+    "neighboring_kingdoms": [
+      {
+        "name": "Kingdom of Veldrath",
+        "direction": "East",
+        "ruler": "King-Strategist Torvald Veld",
+        "relationship": "Hostile — cold war for a generation",
+        "overview": "Militaristic, disciplined, and expansionist. Veldrath discovered its own mana crystal deposits twenty years ago and has been building an industrial-military complex ever since. They are undercutting Aldorian crystal prices in every neutral market and have been covertly funding Varen's faction to destabilize the throne. Their goal is to absorb Aldoria without a full-scale war — by making it collapse from within.",
+        "threat_level": "Critical",
+        "known_for": "War golems, disciplined infantry, meritocratic military hierarchy"
+      },
+      {
+        "name": "The Free Cities of Kestrel",
+        "direction": "West (across the Ashen Coast)",
+        "ruler": "Council of Merchant Princes",
+        "relationship": "Neutral-trading — will trade with anyone",
+        "overview": "A loose alliance of independent port cities that profit from the rivalry between Aldoria and Veldrath. They provide a market for Aldorian crystals but also sell to Veldrath. Kaito recognizes them as a potential ally — or a parasite, depending on the deal.",
+        "threat_level": "Low (opportunistic)",
+        "known_for": "Banking, shipping, espionage, neutrality"
+      },
+      {
+        "name": "The Thornwood Clans",
+        "direction": "South",
+        "ruler": "No single ruler — clan chieftains",
+        "relationship": "Wary coexistence",
+        "overview": "Isolated communities living in the ancient Thornwood. They trade rare herbs and alchemical reagents for iron and salt. They are fiercely independent and have no interest in Aldorian politics — but they possess knowledge of old magic that predates crystalmancy. This will become important.",
+        "threat_level": "Low (unless provoked)",
+        "known_for": "Herbalism, spirit-lore, ancient pacts"
+      },
+      {
+        "name": "The Ironveil Dwarves",
+        "direction": "North (mountains)",
+        "ruler": "Thane Brynn Ironveil",
+        "relationship": "Trade partners, treaty-bound",
+        "overview": "The dwarves mined the northern mountains long before humans arrived. They sold mining rights to Aldoria centuries ago but maintain their own deeper mines. They are watching the depletion crisis with concern — not for Aldoria, but because they know what lies beneath the deepest crystal veins. Something the humans have not yet discovered.",
+        "threat_level": "Neutral (hiding something)",
+        "known_for": "Deep mining, rune-smithing, secrets"
+      }
+    ],
+    "locations": [
+      {
+        "name": "The Royal Castle of Aldoria",
+        "type": "Castle / seat of government",
+        "location": "Center of Aurelian, on a raised plateau above the city",
+        "description": "A sprawling complex of towers, halls, and gardens built over three centuries. Once opulent, now showing cracks — sections of the castle are closed off because the Crown cannot afford to heat them. The Great Hall hosts the throne. The West Tower houses the royal family's private quarters. The basement contains the Royal Crystal Reserve vault — nearly empty.",
+        "key_areas": [
+          "The Throne Room — where the king sits (or doesn't, these days)",
+          "The Council Chamber of Nobles — a circular room with seven chairs, where the nobility bicker",
+          "The Royal Library — dusty, underused, but contains economic records Kaito will need",
+          "The Crystal Vault — guarded, nearly empty, a state secret"
+        ],
+        "notable_npcs": "Captain Rennick (Captain of the Royal Guard), Maester Orin (royal archivist and tutor)"
+      },
+      {
+        "name": "The Silver District",
+        "type": "Merchant quarter",
+        "location": "Western Aurelian, along the river docks",
+        "description": "The commercial heart of the kingdom. Cobblestone streets, trading houses, guild halls, and open-air markets. It smells like fish, spices, and ambition. The Merchant Guild headquarters dominates the central square. Here, money talks louder than bloodline — which is why nobles despise it and commoners dream of it.",
+        "key_areas": [
+          "Merchant Guild Hall — a fortress of paperwork and influence",
+          "The Exchange — where crystal futures and commodity contracts are traded (a novelty Kaito recognizes immediately)",
+          "Voss Banking House — one of the few institutions that will lend to the Crown",
+          "The Gilded Serpent — an upscale tavern where deals are made off the books"
+        ],
+        "notable_npcs": "Guildmaster Sera Voss, Dockmaster Pell (harbor boss with smuggling connections)"
+      },
+      {
+        "name": "The Rusted Gate",
+        "type": "Slums",
+        "location": "Southern Aurelian, outside the old city walls",
+        "description": "The poorest part of the capital. Crumbling buildings, open sewers, and a population of former miners, displaced farmers, and refugees. The name comes from the rusted iron gate that once marked the city boundary — now permanently open because no one can afford to fix it. Despite the poverty, there is a fierce community here. People look out for each other. They also remember who has helped them and who has not.",
+        "key_areas": [
+          "The Hollow Market — a black market for unlicensed crystal fragments",
+          "The Old Mine Shaft — a collapsed mine entrance now used as a gathering place for displaced miners",
+          "Sister Mira's Mission — a church-run shelter and clinic"
+        ],
+        "notable_npcs": "Sister Mira (Church cleric), Corvin 'Coal' Thatch (former miner, community leader)"
+      },
+      {
+        "name": "The Mana Crystal Mines",
+        "type": "Mining complex",
+        "location": "Northern Ironveil Mountains, three days' ride from Aurelian",
+        "description": "The source of Aldoria's wealth and its existential crisis. Massive underground caverns lit by unrefined crystal veins that pulse with pale blue light. The mines are worked by conscripted commoners and indentured laborers. Conditions are brutal. The deepest shafts are now producing almost nothing — and the miners whisper about strange sounds from below, and a darkness that swallows crystallight.",
+        "key_areas": [
+          "The Main Shaft — still productive, but barely",
+          "The Deep Levels — where the crystals are richest, and where something is wrong",
+          "The Refinery — where raw crystals are processed before shipping to the Guild",
+          "The Overseer's Compound — House Duskwood's private administrative center"
+        ],
+        "notable_npcs": "Overseer Kael Duskwood (Varen's nephew and mine administrator), 'Deep' Marta (a veteran miner who has seen things she doesn't talk about)"
+      },
+      {
+        "name": "The Council Chamber of Nobles",
+        "type": "Political meeting hall",
+        "location": "East wing of the Royal Castle",
+        "description": "A circular room with a domed ceiling and seven high-backed chairs arranged in a crescent. The King's throne sits at the apex — usually empty. Portraits of past kings and council heads line the walls. The acoustics are designed so that a whisper carries. This is where the fate of the kingdom is argued, and where Varen Duskwood practices his craft of polite domination.",
+        "key_areas": [
+          "The Seven Chairs — one for each noble house",
+          "The King's Chair — empty, a constant reminder of the power vacuum",
+          "The Antechamber — where deals are whispered before sessions"
+        ],
+        "notable_npcs": "Lord Varen Duskwood, Lord Garrick Harrow (Varen's rival), Lady Isolde Vane (young noblewoman, reform-curious)"
+      },
+      {
+        "name": "The Cathedral of the First Crystal",
+        "type": "Religious center",
+        "location": "Northern Aurelian, on a hill overlooking the city",
+        "description": "A towering structure of white stone and stained glass, built around what the Church claims is the first mana crystal ever discovered. Whether that's true or not, the crystal in the cathedral's heart glows with a light that never dims. The Church teaches that mana is a divine gift — and that hoarding it is a sin. This puts them at odds with every noble house that profits from crystal mines.",
+        "key_areas": [
+          "The Main Sanctum — where the First Crystal glows",
+          "The Confessors' Wing — where Church spies and diplomats are trained",
+          "The Archives — ancient texts, including records of a pre-crystal age"
+        ],
+        "notable_npcs": "High Confessor Maren Halvor, Brother Aldous (archivist, knows more than he says)"
+      },
+      {
+        "name": "The Ashen Coast",
+        "type": "Coastal region / port",
+        "location": "Western border of Aldoria",
+        "description": "A string of port towns and fishing villages along the western sea. The largest port, Saltmere, is the kingdom's primary trade hub. Foreign merchants — including agents of Veldrath and the Free Cities — are common here. Smuggling is rampant. So is information trade. If you want to know what's happening in the world, you come to the Ashen Coast.",
+        "key_areas": [
+          "Saltmere Port — the main harbor",
+          "The Customs House — Crown officials try to collect tariffs here, with mixed success",
+          "The Drowned Rat — a dockside tavern where smugglers and spies drink together"
+        ],
+        "notable_npcs": "Harbormaster Vek (corrupt but useful), 'Silver' Sanna (information broker)"
+      },
+      {
+        "name": "The Thornwood",
+        "type": "Ancient forest",
+        "location": "Southern Aldoria, beyond the settled farmlands",
+        "description": "An old-growth forest that predates human settlement. The trees are massive, the undergrowth is thick, and the deeper you go, the quieter it gets. The Thornwood Clans live in scattered villages, maintaining a way of life that has not changed in centuries. They know things about the land — and about magic — that the rest of Aldoria has forgotten. There are ruins in the deep woods. Some of them are not human.",
+        "key_areas": [
+          "The Clan Village of Oakhollow — largest settlement",
+          "The Whispering Stones — a ring of standing stones that predate crystalmancy",
+          "The Deep Ruins — a collapsed structure of unknown origin"
+        ],
+        "notable_npcs": "Chieftain Elspeth Thorn (pragmatic leader), Old Morwen (herbalist, keeper of stories)"
+      }
+    ],
+    "world_rules": {
+      "technology_level": "Medieval with crystal-powered infrastructure. No gunpowder. Steel weapons, crossbows, siege engines. Mana crystals fill the role of electricity and limited magical effects.",
+      "social_structure": "Rigid feudal hierarchy. Nobles own land and hold titles. Commoners work the land and have no legal rights to it. The Merchant Guild is a middle class — wealthy but legally excluded from nobility. The Church operates outside the feudal structure but lacks temporal power.",
+      "religion": "The Church of the First Crystal teaches that mana is a divine gift intended for all. This doctrine is popular with commoners and threatening to nobles. The Church is not corrupt in the way of medieval stereotypes — it is genuinely idealistic, which makes it both a potential ally and a dangerous one.",
+      "language": "Aldorian (common tongue). Dwarven in the northern mountains. Old Thorn (the Thornwood clans' language, unrelated to Aldorian).",
+      "history": {
+        "age_of_concord": "200 years ago, Aldoria unified the region under a single crown after the Crystal Wars. The discovery of mana crystals in the Ironveil Mountains made this possible.",
+        "crystal_wars": "A century of conflict between rival kingdoms over the newly discovered mana crystals. Aldoria emerged victorious and has dominated the crystal trade ever since.",
+        "the_golden_reign": "100-50 years ago, Aldoria was at its peak. The mines were rich, the treasury was full, and the kingdom was the undisputed power in the region.",
+        "the_slow_decline": "50 years ago to present. The mines began to deplete. The Crown borrowed to maintain spending. Rival kingdoms caught up. The decline has been gradual, then sudden — and now the kingdom is on the brink."
+      }
+    },
+    "central_conflict": {
+      "external": "Aldoria is caught between an expansionist Veldrath (which wants to absorb it) and the Free Cities (which want to exploit it). The kingdom's military is too weak to fight a war, and its economy is too weak to buy allies.",
+      "internal": "Varen Duskwood wants to overthrow the Crown and establish a pure feudal order — with himself as the power behind the throne or on it. He sees Kaito's reforms as a direct assault on the noble privilege that sustains him.",
+      "kaitos_role": "Kaito must find a third path: reform the economy, break the feudal stranglehold, outmaneuver Varen, and build alliances — all without triggering a civil war or inviting foreign invasion. The tools he has are business acumen, political insight, and the desperate trust of a princess who has no one else.",
+      "ticking_clock": "The Royal Crystal Reserve will be empty within three months. When that happens, the Crown cannot pay the Royal Guard, cannot maintain the city's crystal-powered infrastructure, and cannot project any authority at all. The kingdom will collapse — not from invasion, but from insolvency."
+    }
+  }
+}
