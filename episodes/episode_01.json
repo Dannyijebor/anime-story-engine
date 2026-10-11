@@ -1,0 +1,575 @@
+{
+  "episode_number": 1,
+  "title": "The Ledger of a Dead Man",
+  "logline": "A burnt-out Tokyo CFO wakes in the body of a minor noble advisor and discovers the kingdom he now serves is twelve weeks from bankruptcy.",
+  "cold_open": "Tokyo, 3:47 AM. A fluorescent-lit office tower. Kaito Arai, 37, alone on the executive floor, reviews a merger document by the glow of two monitors. His coffee has gone cold. He signs the last page, sets down his pen, and dies. The camera holds on his empty chair as the city hums below — indifferent, electric, alive.",
+  "acts": [
+    {
+      "act": 1,
+      "duration_seconds": 150,
+      "scenes": [
+        {
+          "scene_id": "1.1",
+          "duration_seconds": 10,
+          "visual_prompt": "Wide establishing shot of a Tokyo office tower at night, rain streaking the glass, dozens of windows dark except one on the 34th floor. Camera slowly pushes in toward the single lit window. Mood: lonely, clinical, quiet.",
+          "dialogue": "",
+          "sfx": "Distant city hum, rain against glass, low electrical drone"
+        },
+        {
+          "scene_id": "1.2",
+          "duration_seconds": 10,
+          "visual_prompt": "Interior office. Kaito Arai, lean and sharp-eyed, sits alone at a long conference table covered in spreadsheets. His tie is loosened. Two monitors glow with a merger contract. He signs the final page with precise, practiced strokes. Close-up on his hand, then his face — tired but focused.",
+          "dialogue": "Kaito: (quietly, to the empty room) There. Done before dawn. First time in six years.",
+          "sfx": "Pen scratching paper, fluorescent light hum"
+        },
+        {
+          "scene_id": "1.3",
+          "duration_seconds": 10,
+          "visual_prompt": "Kaito sets down the pen, leans back, and closes his eyes. His hand drifts to his chest. His expression shifts — confusion, then pain. He slumps sideways in the chair. The camera holds on the empty office, the monitors still glowing, the contract still open. Slow fade to white.",
+          "dialogue": "",
+          "sfx": "Chair creak, a sharp intake of breath, then silence — absolute silence"
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "duration_seconds": 180,
+      "scenes": [
+        {
+          "scene_id": "2.1",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito's eyes snap open. He is lying in a canopy bed in a stone chamber lit by pale blue crystal lamps. He sits up fast, gasping. The room is medieval — tapestries, heavy wooden furniture, a window showing an unfamiliar skyline. Camera shakes slightly with his disorientation.",
+          "dialogue": "Kaito: (breathing hard) What—",
+          "sfx": "Sharp gasp, heartbeat thudding, crystal lamp faint hum"
+        },
+        {
+          "scene_id": "2.2",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito looks at his hands — leaner, older, with calluses he does not recognize. He touches his face, his hair — black with silver streaks at the temples. He stares at his reflection in a polished silver mirror across the room. The face is his, but not his.",
+          "dialogue": "Kaito: (whisper) This isn't... this isn't my body.",
+          "sfx": "Fabric rustle, breathing, distant castle ambience"
+        },
+        {
+          "scene_id": "2.3",
+          "duration_seconds": 8,
+          "visual_prompt": "The chamber door opens. Maester Orin, thin and stooped with ink-stained fingers, enters carrying a leather-bound ledger. He stops when he sees Kaito awake. His expression is relieved but guarded.",
+          "dialogue": "Maester Orin: Advisor Kaito. You are awake. The physician said you might not wake at all.",
+          "sfx": "Door creak, footsteps on stone"
+        },
+        {
+          "scene_id": "2.4",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito stares at Orin, processing. He does not panic. His eyes narrow — calculating. He looks around the room, cataloging details: the crystal lamps, the stone walls, the unfamiliar heraldry on the tapestry.",
+          "dialogue": "Kaito: Advisor. That's my title?",
+          "sfx": "Crystal lamp hum"
+        },
+        {
+          "scene_id": "2.5",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin sets the ledger on a side table and pulls a chair close to the bed. He studies Kaito with scholarly concern. Kaito watches him the way an analyst watches a market — reading every micro-expression.",
+          "dialogue": "Maester Orin: Minor advisor to the Crown. You were found unconscious in the library three days ago. No wound. No fever. The physicians called it a wasting of the spirit.",
+          "sfx": "Chair scrape, ledger thump"
+        },
+        {
+          "scene_id": "2.6",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito swings his legs out of bed and stands. He is unsteady but forces himself upright. He walks to the window and looks out at a sprawling medieval city — towers, walls, a castle district, smoke rising from chimneys.",
+          "dialogue": "Kaito: (quietly) What kingdom is this?",
+          "sfx": "Bare feet on stone, distant city noise through glass"
+        },
+        {
+          "scene_id": "2.7",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin rises, alarmed by the question. He steps toward Kaito, studying his face with growing concern.",
+          "dialogue": "Maester Orin: You are in Aurelian. Capital of Aldoria. You have lived here for six years, Advisor. Do you not remember?",
+          "sfx": "Fabric shift, tense silence"
+        },
+        {
+          "scene_id": "2.8",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito turns from the window. His face is calm — unnervingly calm. He meets Orin's eyes directly. Behind his eyes, calculations are running.",
+          "dialogue": "Kaito: I remember everything. Just not this. Walk me through the kingdom's finances. Start with the treasury.",
+          "sfx": "Quiet crystal hum"
+        },
+        {
+          "scene_id": "2.9",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin blinks, thrown by the request. He opens the ledger, flips through pages, and frowns.",
+          "dialogue": "Maester Orin: That is... not a question anyone has asked me in thirty years. The treasury is the Crown's concern. Nobles do not—",
+          "sfx": "Pages turning"
+        },
+        {
+          "scene_id": "2.10",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito crosses to the table and takes the ledger from Orin's hands — gently but firmly. He scans the columns. His expression does not change, but his jaw tightens.",
+          "dialogue": "Kaito: Noble or not, I'm asking. And you're answering. What's the annual revenue?",
+          "sfx": "Ledger shifting, paper crinkle"
+        },
+        {
+          "scene_id": "2.11",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin hesitates, then relents. He points to a column. Kaito reads. His eyes move fast — the way a man reads a balance sheet that tells him the building is on fire.",
+          "dialogue": "Maester Orin: One point two million crowns. Down from two million a decade ago. The mines produce less every year.",
+          "sfx": "Quiet page turning"
+        },
+        {
+          "scene_id": "2.12",
+          "duration_seconds": 8,
+          "visual_prompt": "Close-up on Kaito's face as he reads. His expression is flat but his eyes are sharp. He flips the page. Then another. Then he stops.",
+          "dialogue": "Kaito: And expenditures?",
+          "sfx": "Pages turning, then silence"
+        },
+        {
+          "scene_id": "2.13",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin hesitates. He adjusts his spectacles. His eyes flick to the door, then back to Kaito. He speaks carefully, as if reciting a rehearsed line.",
+          "dialogue": "Maester Orin: The Royal Crystal Reserve holds six months of operational capital, by the official tally. (pause, quieter) By the official tally.",
+          "sfx": "Quiet crystal hum, distant wind"
+        },
+        {
+          "scene_id": "2.14",
+          "duration_seconds": 8,
+          "visual_prompt": "Close-up on Kaito's eyes. They narrow — just slightly. He caught the repetition. He does not comment on it. He files it away. The camera holds on his face for a beat too long, letting the audience see him notice.",
+          "dialogue": "Kaito: Six months. By the official tally.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "2.15",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin sits down heavily in the chair. He looks older than he did a minute ago. He does not elaborate on the tally. He simply waits.",
+          "dialogue": "Maester Orin: One point eight million crowns in annual expenditure. The Crown has been borrowing to cover the difference for twelve years.",
+          "sfx": "Chair creak, slow exhale"
+        },
+        {
+          "scene_id": "2.16",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito turns from the window. For the first time, a flicker of something — not fear, but recognition. The look of a man who has seen this exact pattern before.",
+          "dialogue": "Kaito: One point two in, one point eight out. Six hundred thousand annual deficit. Declining revenue. And a king who's ill. This kingdom is what — twelve weeks from insolvency?",
+          "sfx": "Quiet, tense ambience"
+        },
+        {
+          "scene_id": "2.17",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin stares at him, stunned. He opens his mouth, closes it. Then, quietly:",
+          "dialogue": "Maester Orin: How could you possibly know that?",
+          "sfx": "Silence"
+        },
+        {
+          "scene_id": "2.18",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito picks up the ledger. He tucks it under his arm. He looks at Orin with calm, terrible certainty.",
+          "dialogue": "Kaito: Because I've audited dying companies before. The numbers always look like this. Take me to whoever's in charge.",
+          "sfx": "Footsteps toward door"
+        },
+        {
+          "scene_id": "2.19",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin rises, flustered but obedient. He leads Kaito out of the chamber. The camera lingers on the empty room for a beat — the rumpled bed, the crystal lamp, the unfamiliar world — before following them into the corridor.",
+          "dialogue": "Maester Orin: (muttering) The Princess is in the West Tower. She will not want to be disturbed. She never wants to be disturbed.",
+          "sfx": "Door opening, footsteps on stone, crystal lamps humming"
+        },
+        {
+          "scene_id": "2.20",
+          "duration_seconds": 8,
+          "visual_prompt": "Corridor of the Royal Castle. Kaito walks with purpose, Orin half-jogging to keep up. Servants and guards stare. Kaito does not acknowledge them — he is already building a model of this world in his head.",
+          "dialogue": "Kaito: What's her name?",
+          "sfx": "Echoing footsteps, distant castle work"
+        },
+        {
+          "scene_id": "2.21",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin gestures toward a tower staircase. Guards flank the door. They eye Kaito with suspicion.",
+          "dialogue": "Maester Orin: Princess Elara Aldor. Sole heir. Her father, the King, is... unwell. She has been managing the kingdom's affairs for six months.",
+          "sfx": "Guard armor shifting, torch crackle"
+        },
+        {
+          "scene_id": "2.22",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito pauses at the staircase. He looks up. Then back at Orin. His voice is level.",
+          "dialogue": "Kaito: And how old is she?",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "2.23",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin meets his eyes. There is something protective in the old man's gaze.",
+          "dialogue": "Maester Orin: Twenty. She is twenty years old, and she is trying to hold this kingdom together with her bare hands.",
+          "sfx": "Torch crackle"
+        },
+        {
+          "scene_id": "2.24",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito's expression does not change, but something shifts behind his eyes — a flicker of respect, or pity, or both. He starts up the stairs.",
+          "dialogue": "Kaito: Then let's not waste her time.",
+          "sfx": "Footsteps ascending stone stairs"
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "duration_seconds": 180,
+      "scenes": [
+        {
+          "scene_id": "3.1",
+          "duration_seconds": 8,
+          "visual_prompt": "The West Tower study. Princess Elara stands at a cluttered desk, silver-blonde hair tied back, green eyes scanning a stack of documents. She wears practical riding clothes, not a gown. A small scar on her left cheek catches the lamplight. She does not look up when the door opens.",
+          "dialogue": "Elara: Orin, if that's another petition from the Guild about tariffs, I swear—",
+          "sfx": "Door opening, papers rustling"
+        },
+        {
+          "scene_id": "3.2",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara looks up. She sees Kaito. Her expression shifts from irritation to guarded curiosity. She straightens.",
+          "dialogue": "Elara: Advisor Kaito. You're awake. I was told you might not be.",
+          "sfx": "Quiet room tone"
+        },
+        {
+          "scene_id": "3.3",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito steps into the room, ledger under his arm. He takes in the study — the piles of papers, the cold tea, the map of the kingdom covered in annotations. He sees a young woman fighting a war against arithmetic.",
+          "dialogue": "Kaito: I'm awake. And I've read your ledger. Your Highness, this kingdom is twelve weeks from insolvency.",
+          "sfx": "Footsteps, ledger placed on desk"
+        },
+        {
+          "scene_id": "3.4",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara's face hardens. She does not flinch. She has heard worse — but not from someone who says it like a fact, not a threat.",
+          "dialogue": "Elara: I know. We've been managing it. Borrowing from the Guild. Selling future crystal shipments. We're surviving.",
+          "sfx": "Paper shifting"
+        },
+        {
+          "scene_id": "3.5",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito pulls a chair and sits — uninvited, but not rudely. He opens the ledger and turns it toward her. His finger traces a column.",
+          "dialogue": "Kaito: You're not surviving. You're borrowing from the future to pay for the present. That works until the future stops lending. When did the Guild last offer credit?",
+          "sfx": "Chair scrape, page turning"
+        },
+        {
+          "scene_id": "3.6",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara crosses her arms. She does not sit. She is not used to being challenged — but she is listening.",
+          "dialogue": "Elara: Three months ago. They offered less than we asked. Guildmaster Voss said the mines are producing less and the risk is too high.",
+          "sfx": "Fabric shift"
+        },
+        {
+          "scene_id": "3.7",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito nods, as if confirming a diagnosis. He closes the ledger.",
+          "dialogue": "Kaito: So your primary lender is losing confidence. Your primary revenue source is declining. Your king is ill. And you have a Council of nobles who would rather watch you fail than help you succeed. That's not a kingdom. That's a liquidation.",
+          "sfx": "Ledger closing"
+        },
+        {
+          "scene_id": "3.8",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara slams her hand on the desk. The papers jump. Her eyes are fierce — not angry, but desperate.",
+          "dialogue": "Elara: I know what it is. I have known since my father fell ill. What I don't know is what to do about it. Every noble in that chamber has an opinion. None of them have a solution.",
+          "sfx": "Hand on wood, papers rustling"
+        },
+        {
+          "scene_id": "3.9",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito meets her eyes. His voice is quiet, but there is steel underneath.",
+          "dialogue": "Kaito: Solutions start with questions. I have three. First — who owns the land?",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "3.10",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara blinks, thrown by the question. Orin, in the doorway, watches with growing interest.",
+          "dialogue": "Elara: The nobles. The great houses. They've held it for centuries. Why does that matter?",
+          "sfx": "Distant castle sounds"
+        },
+        {
+          "scene_id": "3.11",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito leans back. He speaks with the patience of a man explaining a simple equation to someone who has been taught it's impossible.",
+          "dialogue": "Kaito: Because land is capital. If nobles own all the land and don't develop it, your agricultural output is capped. Your tax base is capped. Your future revenue is capped. Which means you can never grow your way out of debt.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "3.12",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara stares at him. The logic lands like a blow — obvious in retrospect, invisible before.",
+          "dialogue": "Elara: You want me to break the feudal land laws.",
+          "sfx": "Sharp inhale"
+        },
+        {
+          "scene_id": "3.13",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito does not smile, but his eyes flicker with something like approval.",
+          "dialogue": "Kaito: I want you to reform them. Breaking them will start a civil war. Reforming them will start a fight you can win. There's a difference.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "3.14",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara paces to the window. She looks out at the city — her city. Her kingdom. She is twenty years old and the weight of it is visible on her shoulders.",
+          "dialogue": "Elara: My father would never have allowed it. The nobles would scream. Varen would—",
+          "sfx": "Footsteps, window glass faintly rattling"
+        },
+        {
+          "scene_id": "3.15",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito stands. He walks to the window beside her. He does not stand close — a respectful distance. Two strategists surveying a battlefield.",
+          "dialogue": "Kaito: Varen Duskwood is already your enemy. He will oppose anything you propose. The question is whether the other houses follow him. That depends on whether your reforms give them something to lose by opposing.",
+          "sfx": "Footsteps, quiet"
+        },
+        {
+          "scene_id": "3.16",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara turns to him. Her expression is no longer guarded — it is focused. She is listening.",
+          "dialogue": "Elara: What do you propose?",
+          "sfx": "Fabric shift"
+        },
+        {
+          "scene_id": "3.17",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito looks at the map on her desk. His finger traces the northern mountains — the mines.",
+          "dialogue": "Kaito: First, an audit. A real one. The Council has been reporting inflated crystal yields for years. I read the ledger. The math doesn't work. If I'm right, someone has been stealing from the Crown. Find the leak, and you can plug it.",
+          "sfx": "Finger on map"
+        },
+        {
+          "scene_id": "3.18",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara nods slowly. For the first time, a spark of hope — cautious, but real.",
+          "dialogue": "Elara: You want to audit the mines. And the nobles.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "3.19",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito looks at her directly. His voice is quiet but firm.",
+          "dialogue": "Kaito: I want to audit everything. Starting with the people who will fight hardest to stop me.",
+          "sfx": "Quiet room tone"
+        },
+        {
+          "scene_id": "3.20",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin clears his throat from the doorway. Both turn. The old scholar looks worried.",
+          "dialogue": "Maester Orin: If you do this, Advisor, you will make enemies. Powerful ones. Lord Varen does not forgive threats to his position.",
+          "sfx": "Throat clearing, robe rustle"
+        },
+        {
+          "scene_id": "3.21",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito picks up the ledger. He tucks it under his arm again. He looks at Orin — calm, almost amused.",
+          "dialogue": "Kaito: I've made enemies before. They were all very confident too. Right before the audit found the missing money.",
+          "sfx": "Ledger under arm, footsteps"
+        },
+        {
+          "scene_id": "3.22",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara watches him. She does not smile, but something in her posture shifts — she is no longer alone in this. Camera holds on her as Kaito walks to the door.",
+          "dialogue": "Elara: Kaito. Thank you.",
+          "sfx": "Footsteps pause"
+        },
+        {
+          "scene_id": "3.23",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito pauses at the door. He does not turn around. His voice is quiet.",
+          "dialogue": "Kaito: Don't thank me yet. Thank me when the numbers stop looking like a funeral.",
+          "sfx": "Door opening"
+        },
+        {
+          "scene_id": "3.24",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito exits. Elara stands alone in the study. She looks at the ledger he left open on her desk. Her hand rests on it.",
+          "dialogue": "Elara: (quietly, to herself) Twelve weeks.",
+          "sfx": "Quiet room tone"
+        },
+        {
+          "scene_id": "3.25",
+          "duration_seconds": 8,
+          "visual_prompt": "Orin, still in the doorway, watches Elara with a mixture of hope and dread. He knows something he cannot say.",
+          "dialogue": "Maester Orin: (softly) He is either the best thing that has happened to this kingdom... or the worst.",
+          "sfx": "Quiet"
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "duration_seconds": 180,
+      "scenes": [
+        {
+          "scene_id": "4.1",
+          "duration_seconds": 8,
+          "visual_prompt": "The Council Chamber of Nobles. Circular room, domed ceiling, seven high-backed chairs in a crescent. The King's throne at the apex — empty. Lord Varen Duskwood stands at the center, silver fox hair immaculate, black coat, wolf sigil pin catching the light. He is mid-speech, and the room is silent.",
+          "dialogue": "Varen: ...and so I say again, Your Highness, the Crown cannot afford to entertain the fantasies of foreign advisors.",
+          "sfx": "Formal chamber tone, quiet footsteps"
+        },
+        {
+          "scene_id": "4.2",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara sits in a smaller chair beside the empty throne — the regent's seat. She does not slouch. Kaito stands beside her, ledger in hand. Varen's cold grey eyes flick to Kaito, then away, as if he is not worth addressing directly.",
+          "dialogue": "Elara: Advisor Kaito is not foreign. He is a subject of the Crown. And he has requested this audience.",
+          "sfx": "Quiet chamber echo"
+        },
+        {
+          "scene_id": "4.3",
+          "duration_seconds": 8,
+          "visual_prompt": "Varen turns to Kaito. His expression is polite — weaponized politeness. He smiles with his mouth but not his eyes.",
+          "dialogue": "Varen: Of course. Advisor Kaito. I understand you were unwell. One hopes the rest has... clarified your thinking.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.4",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito meets Varen's gaze without flinching. He does not raise his voice. He speaks with the measured calm of a man who has briefed hostile boards.",
+          "dialogue": "Kaito: My thinking is very clear, Lord Duskwood. I've reviewed the Crown's ledger. I have questions.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.5",
+          "duration_seconds": 8,
+          "visual_prompt": "Lord Garrick Harrow, a proud old nobleman in a green coat, leans forward. He is Varen's rival — everyone in the room knows it. He watches Kaito with interest.",
+          "dialogue": "Lord Harrow: Questions about what, precisely?",
+          "sfx": "Chair creak"
+        },
+        {
+          "scene_id": "4.5a",
+          "duration_seconds": 6,
+          "visual_prompt": "Close-up insert shot: Lord Harrow's right hand rests on the arm of his chair. On his index finger is a silver ring bearing a three-crossed-swords motif — the sigil of Veldrath. The camera holds on the ring for a beat, then pulls back slightly to show Harrow's face as he watches Kaito, his expression unreadable. Mood: subtle, ominous.",
+          "dialogue": "",
+          "sfx": "Quiet chamber tone"
+        },
+        {
+          "scene_id": "4.6",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito opens the ledger. He does not look at the pages — he has already memorized the figures. He speaks to the room, not to any one person.",
+          "dialogue": "Kaito: The Crown's official crystal yield has declined twelve percent over five years. But the mining licenses have increased by twenty percent. More miners, more licenses, less crystal. That doesn't happen by accident.",
+          "sfx": "Ledger pages, quiet murmurs"
+        },
+        {
+          "scene_id": "4.7",
+          "duration_seconds": 8,
+          "visual_prompt": "Varen's expression does not change, but his fingers tighten on the head of his cane. A tiny tell. Kaito sees it.",
+          "dialogue": "Varen: The mines are depleting. Everyone knows this. It is hardly a revelation.",
+          "sfx": "Cane tap"
+        },
+        {
+          "scene_id": "4.8",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito turns a page. He reads a figure aloud.",
+          "dialogue": "Kaito: Then explain this. Four years ago, the Crown spent eighty thousand crowns on new refining equipment for the northern mines. Last year, the same equipment was purchased again. Same vendor. Same price. The mines cannot use two sets of the same machinery. Someone is buying equipment twice and billing the Crown for both.",
+          "sfx": "Page turning, stunned silence"
+        },
+        {
+          "scene_id": "4.9",
+          "duration_seconds": 8,
+          "visual_prompt": "The chamber stirs. Lord Harrow sits up straighter. Lady Isolde Vane, a young noblewoman in blue, watches Kaito with open curiosity. Varen's face is stone.",
+          "dialogue": "Lord Harrow: Is that true?",
+          "sfx": "Quiet murmurs"
+        },
+        {
+          "scene_id": "4.10",
+          "duration_seconds": 8,
+          "visual_prompt": "Varen steps forward. He speaks smoothly, without hesitation — a man who has deflected accusations before.",
+          "dialogue": "Varen: An accounting error. The Crown's records are kept by clerks, not scholars. If there is waste, we will correct it. This is hardly grounds for alarm.",
+          "sfx": "Footsteps on marble"
+        },
+        {
+          "scene_id": "4.11",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito closes the ledger. He looks at Varen directly. His voice is quiet — and that makes it more dangerous.",
+          "dialogue": "Kaito: It's not an accounting error, Lord Duskwood. It's a pattern. I found eleven identical instances across four years. The Crown has been bled dry by someone who knows exactly how to hide it. This isn't mismanagement. This is theft.",
+          "sfx": "Ledger closing, sharp silence"
+        },
+        {
+          "scene_id": "4.12",
+          "duration_seconds": 8,
+          "visual_prompt": "The room erupts in whispers. Varen's eyes are cold. He does not raise his voice. That would be beneath him.",
+          "dialogue": "Varen: You are accusing members of this Council of theft? That is a serious charge. One might even call it slander.",
+          "sfx": "Whispers, chamber echo"
+        },
+        {
+          "scene_id": "4.13",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito does not back down. He does not smile. He speaks with the flat certainty of a man who has seen the receipts.",
+          "dialogue": "Kaito: I'm not accusing anyone. I'm reading a ledger. The numbers accuse themselves.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.14",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara rises. She has been silent, but now she speaks — short, determined sentences. Her voice carries.",
+          "dialogue": "Elara: I am ordering a full audit. Of the mines. Of the Crown's accounts. Of every noble house that holds a mining license. This is not a request.",
+          "sfx": "Chair scrape, sharp breath from the nobles"
+        },
+        {
+          "scene_id": "4.15",
+          "duration_seconds": 8,
+          "visual_prompt": "Varen turns to Elara. His expression softens into something resembling paternal concern — a mask.",
+          "dialogue": "Varen: Your Highness, with respect, your father would never have permitted such an intrusion into the affairs of the great houses. The Crown and the nobility have a... delicate arrangement.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.16",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara does not flinch. She meets Varen's gaze. Her hand rests on the back of the regent's chair.",
+          "dialogue": "Elara: My father is not here. I am. And I will not let this kingdom be stolen from under him while he lies ill.",
+          "sfx": "Quiet, tense"
+        },
+        {
+          "scene_id": "4.17",
+          "duration_seconds": 8,
+          "visual_prompt": "A long pause. Varen studies Elara, then Kaito. He is recalculating. He inclines his head — a small, precise bow.",
+          "dialogue": "Varen: As you command, Your Highness. The Council will cooperate fully. We all want what is best for Aldoria.",
+          "sfx": "Cane tap, formal bow"
+        },
+        {
+          "scene_id": "4.18",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito watches Varen bow. He does not believe it. Varen meets his eyes for a fraction of a second — and in that glance, a promise: I will destroy you.",
+          "dialogue": "",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.19",
+          "duration_seconds": 8,
+          "visual_prompt": "The Council session ends. Nobles rise and file out, whispering. Lady Isolde Vane lingers, looking back at Kaito with an unreadable expression. Then she leaves.",
+          "dialogue": "",
+          "sfx": "Footsteps, robes rustling, distant conversation"
+        },
+        {
+          "scene_id": "4.20",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara and Kaito are left alone in the chamber. Elara exhales slowly. She looks at Kaito.",
+          "dialogue": "Elara: You just accused half the Council of theft. In their own chamber.",
+          "sfx": "Quiet chamber echo"
+        },
+        {
+          "scene_id": "4.21",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito picks up the ledger. He is calm. Almost amused.",
+          "dialogue": "Kaito: I accused the numbers. They can be offended if they want. The audit will decide who was right.",
+          "sfx": "Ledger under arm"
+        },
+        {
+          "scene_id": "4.22",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara shakes her head — not in disagreement, but in something like wonder. She has never met anyone like him.",
+          "dialogue": "Elara: You're either very brave or very foolish.",
+          "sfx": "Quiet"
+        },
+        {
+          "scene_id": "4.23",
+          "duration_seconds": 8,
+          "visual_prompt": "Kaito walks toward the door. He pauses, looks back at her.",
+          "dialogue": "Kaito: In my experience, they're the same thing. Get some sleep, Your Highness. Tomorrow we start with the mines.",
+          "sfx": "Footsteps"
+        },
+        {
+          "scene_id": "4.24",
+          "duration_seconds": 8,
+          "visual_prompt": "Elara watches him go. The chamber is empty except for her and the vacant throne. She looks at the throne. Then at the door where Kaito disappeared. She straightens her shoulders.",
+          "dialogue": "Elara: (quietly) Twelve weeks.",
+          "sfx": "Quiet"
+        }
+      ]
+    }
+  ],
+  "cliffhanger": "That night. A dim castle corridor. Kaito walks alone, ledger under his arm, replaying the Council session in his mind. He passes a shadowed alcove. Behind him, Varen's personal aide — a thin man in dark grey — steps close to a Royal Guard. The guard does not look at him. The aide speaks in a whisper so low the audience strains to hear it. 'Watch him. If he touches the ledgers, he dies.' The guard nods once. The aide melts back into the shadows. Kaito pauses at the end of the corridor — something makes him look back. The corridor is empty. He frowns, then continues. The camera holds on the empty corridor, then slowly tilts down to reveal a single black wolf sigil pin lying on the floor — exactly where the aide had stood.",
+  "next_episode_teaser": "Next episode: Kaito negotiates his first trade agreement with Guildmaster Sera Voss, while Elara confronts the reality of her father's deteriorating condition — and a Church spy reports that the outsider sees too much. 'The Silver District Accord.'",
+  "foreshadow_planted": ["FC-01", "FC-02", "FC-03"],
+  "foreshadow_paid_off": []
+}
