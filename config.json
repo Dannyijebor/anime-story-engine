@@ -1,0 +1,56 @@
+{
+  "series_title": "Aetheria Chronicles",
+  "genre": "Isekai",
+  "premise": "A burnt-out Tokyo corporate strategist dies from overwork and is reincarnated into Aldoria, a high-fantasy kingdom on the verge of economic collapse. Using modern business and economic principles, he must save the kingdom while fighting nobles who want to preserve the feudal status quo and rival nations exploiting the chaos.",
+  "tone": "Serious with moments of dry humor, cinematic and character-driven",
+  "setting": {
+    "world": "Aetheria",
+    "kingdom": "Aldoria",
+    "era": "Medieval European fantasy with a soft magic system based on mana crystals that power infrastructure",
+    "key_locations": [
+      "The Royal Castle of Aldoria",
+      "The Silver District (merchant quarter)",
+      "The Rusted Gate (slums)",
+      "The Mana Crystal Mines",
+      "The Council Chamber of Nobles"
+    ]
+  },
+  "main_characters": [
+    {
+      "id": "kaito",
+      "name": "Kaito Arai",
+      "role": "Protagonist",
+      "age": 37,
+      "appearance": "Lean build, sharp calculating eyes, neatly cut black hair with silver streaks at the temples, wears simple but well-tailored noble clothing after reincarnation",
+      "personality": "Analytical, calm under pressure, quietly sarcastic, deeply principled",
+      "backstory": "Former CFO of a Tokyo logistics firm. Died of a heart attack at 3 AM while reviewing a merger deal. Woke up in the body of a minor noble advisor in Aldoria.",
+      "goal": "Prevent Aldoria from financial collapse and build a sustainable economy"
+    },
+    {
+      "id": "elara",
+      "name": "Princess Elara Aldor",
+      "role": "Female Lead",
+      "age": 20,
+      "appearance": "Silver-blonde hair, green eyes, small scar on left cheek from a childhood assassination attempt, wears practical riding clothes more often than gowns",
+      "personality": "Brave, earnest, idealistic but learning to be shrewd, fiercely loyal",
+      "backstory": "Sole heir to the throne. Her father the King is ill. She inherited a kingdom drowning in debt and surrounded by enemies.",
+      "goal": "Save her kingdom and prove she can rule"
+    },
+    {
+      "id": "varen",
+      "name": "Lord Varen Duskwood",
+      "role": "Antagonist",
+      "age": 52,
+      "appearance": "Tall, broad-shouldered, silver fox hair, cold grey eyes, always dressed in black with a wolf sigil pin",
+      "personality": "Ambitious, patient, sees himself as the only competent ruler",
+      "backstory": "Head of the Noble Council. Believes the kingdom should return to pure feudalism. Sees Kaito as an existential threat.",
+      "goal": "Take the throne by discrediting Elara and eliminating Kaito"
+    }
+  ],
+  "story_rules": {
+    "episode_length_minutes": 10,
+    "cliffhanger_required": true,
+    "no_resolutions_mid_arc": true,
+    "foreshadow_min_episodes_ahead": 3
+  }
+}
