@@ -1,0 +1,250 @@
+{
+  "canon_characters": {
+    "kaito": {
+      "id": "kaito",
+      "name": "Kaito Arai",
+      "role": "Protagonist",
+      "age": 37,
+      "appearance": "Lean build, sharp calculating eyes, neatly cut black hair with silver streaks at the temples, wears simple but well-tailored noble clothing after reincarnation",
+      "personality": "Analytical, calm under pressure, quietly sarcastic, deeply principled",
+      "backstory": "Former CFO of a Tokyo logistics firm. Died of a heart attack at 3 AM while reviewing a merger deal. Woke up in the body of a minor noble advisor in Aldoria.",
+      "goal": "Prevent Aldoria from financial collapse and build a sustainable economy"
+    },
+    "elara": {
+      "id": "elara",
+      "name": "Princess Elara Aldor",
+      "role": "Female Lead",
+      "age": 20,
+      "appearance": "Silver-blonde hair, green eyes, small scar on left cheek from a childhood assassination attempt, wears practical riding clothes more often than gowns",
+      "personality": "Brave, earnest, idealistic but learning to be shrewd, fiercely loyal",
+      "backstory": "Sole heir to the throne. Her father the King is ill. She inherited a kingdom drowning in debt and surrounded by enemies.",
+      "goal": "Save her kingdom and prove she can rule"
+    },
+    "varen": {
+      "id": "varen",
+      "name": "Lord Varen Duskwood",
+      "role": "Antagonist",
+      "age": 52,
+      "appearance": "Tall, broad-shouldered, silver fox hair, cold grey eyes, always dressed in black with a wolf sigil pin",
+      "personality": "Ambitious, patient, sees himself as the only competent ruler",
+      "backstory": "Head of the Noble Council. Believes the kingdom should return to pure feudalism. Sees Kaito as an existential threat.",
+      "goal": "Take the throne by discrediting Elara and eliminating Kaito"
+    }
+  },
+  "supporting_characters": [
+    {
+      "id": "sera_voss",
+      "name": "Sera Voss",
+      "role": "Guildmaster of the Merchant Guild",
+      "age": 44,
+      "appearance": "Sharp-featured, dark hair pulled back in a silver clasp, tailored burgundy coats, always wears gloves even indoors",
+      "personality": "Pragmatic, dry-witted, fiercely protective of Guild independence, never makes a promise she cannot profit from",
+      "secret": "She has been secretly negotiating with Veldrath agents to secure the Merchant Guild's future if Aldoria falls, while publicly presenting herself as a loyal Crown charter-holder.",
+      "relationship_to_kaito": "Cautiously intrigued; sees him as a useful outsider who speaks her language but may become a liability.",
+      "relationship_to_elara": "Pragmatic ally; respects Elara's determination but privately doubts the Crown can survive.",
+      "first_appears_episode": 1
+    },
+    {
+      "id": "captain_rennick",
+      "name": "Captain Rennick",
+      "role": "Captain of the Royal Guard",
+      "age": 49,
+      "appearance": "Weathered face, short grey-brown hair, broad shoulders, ceremonial armor that is polished but visibly old",
+      "personality": "Gruff, duty-bound, quietly ashamed of compromises he has made, fiercely protective of Elara",
+      "secret": "He has been passing Royal Guard patrol schedules to Overseer Kael Duskwood in exchange for Varen's help paying off a family debt, making him an unwitting asset in Varen's conspiracy.",
+      "relationship_to_kaito": "Guarded protector; suspicious of Kaito's foreign ideas but recognizes his competence.",
+      "relationship_to_elara": "Loyal guard captain; would die for her, but his secret compromise eats at him.",
+      "first_appears_episode": 1
+    },
+    {
+      "id": "maester_orin",
+      "name": "Maester Orin",
+      "role": "Royal Archivist and Tutor",
+      "age": 67,
+      "appearance": "Thin, stooped, ink-stained fingers, wire-rimmed spectacles, robes of faded grey with a silver chain of office",
+      "personality": "Scholarly, absent-minded in small matters but razor-sharp in large ones, quietly subversive",
+      "secret": "He has discovered records proving the Royal Crystal Reserve is far emptier than publicly known, and that King Aldric's illness is consistent with slow magical poisoning.",
+      "relationship_to_kaito": "Mentor and student; Orin is one of the first to recognize Kaito's economic genius and provides historical context.",
+      "relationship_to_elara": "Childhood tutor; loves her like a granddaughter but has not yet told her the truth about her father's illness.",
+      "first_appears_episode": 1
+    },
+    {
+      "id": "sister_mira",
+      "name": "Sister Mira",
+      "role": "Church cleric and caretaker of the Rusted Gate mission",
+      "age": 33,
+      "appearance": "Plain grey robes, kind eyes, calloused hands from healing work, a small crystal pendant that glows faintly",
+      "personality": "Compassionate, observant, disarmingly direct, carries the weight of secrets without letting them harden her",
+      "secret": "She is a trained Confessor — a Church spy and diplomat — assigned to assess Kaito's reforms and report directly to High Confessor Maren Halvor.",
+      "relationship_to_kaito": "Compassionate observer; genuinely likes him but is obligated to report on him.",
+      "relationship_to_elara": "Sympathetic Church contact; believes Elara's heart is in the right place but fears she is too inexperienced.",
+      "first_appears_episode": 2
+    },
+    {
+      "id": "corvin_thatch",
+      "name": "Corvin 'Coal' Thatch",
+      "role": "Former miner and community leader in the Rusted Gate",
+      "age": 41,
+      "appearance": "Soot-stained skin, missing two fingers on his left hand, heavy build, patched miner's coat, eyes that are always tired",
+      "personality": "Blunt, protective of his people, deeply distrustful of nobles and Crown officials, capable of surprising eloquence",
+      "secret": "He was part of a mining crew that broke into a pre-human ruin deep beneath the Ironveil Mountains; he carries a strange crystal shard that sometimes whispers to him, and he has told no one.",
+      "relationship_to_kaito": "Wary potential ally; sees Kaito as the first noble-adjacent man who has ever asked miners what they need.",
+      "relationship_to_elara": "Resentful of the Crown but willing to listen if she proves she cares about commoners.",
+      "first_appears_episode": 3
+    },
+    {
+      "id": "kael_duskwood",
+      "name": "Overseer Kael Duskwood",
+      "role": "Varen's nephew and administrator of the Mana Crystal Mines",
+      "age": 35,
+      "appearance": "Handsome in a cold way, immaculate black coats, silver wolf pin, hands that have never done manual labor",
+      "personality": "Arrogant, ambitious, cruel when he thinks no one important is watching, desperate to prove himself to Varen",
+      "secret": "He is embezzling crystal shipments to fund his own power base, and he has discovered that the deep mines are not merely depleting — something beneath the earth is consuming the crystals.",
+      "relationship_to_kaito": "Dismissive rival; views Kaito as a jumped-up clerk who has no place in noble affairs.",
+      "relationship_to_elara": "Contemptuous noble; believes she is weak and that Varen should rule.",
+      "first_appears_episode": 4
+    },
+    {
+      "id": "high_confessor_halvor",
+      "name": "High Confessor Maren Halvor",
+      "role": "Leader of the Church of the First Crystal",
+      "age": 61,
+      "appearance": "Tall, silver-haired, robed in white and blue, eyes that seem to see through people, carries a staff topped with a small clear crystal",
+      "personality": "Serene, politically astute, genuinely devout, capable of both profound kindness and ruthless calculation",
+      "secret": "The Church's First Crystal is actually a fragment of something far larger and older; Halvor knows the pre-crystal age ended in a catastrophe, and he fears the same pattern is beginning again.",
+      "relationship_to_kaito": "Cautiously interested; sees Kaito's reforms as aligned with Church doctrine against hoarding, but questions whether he is a heretic or a prophet.",
+      "relationship_to_elara": "Spiritual advisor; supports her claim to the throne but withholds the full truth about the First Crystal.",
+      "first_appears_episode": 5
+    }
+  ],
+  "relationships": {
+    "kaito": [
+      "elara:mutual_respect_and_growing_trust",
+      "varen:political_rival_and_target",
+      "sera_voss:cautious_business_ally",
+      "captain_rennick:guarded_protector",
+      "maester_orin:mentor_and_student",
+      "sister_mira:compassionate_observer",
+      "corvin_thatch:wary_potential_ally",
+      "kael_duskwood:dismissive_rival",
+      "high_confessor_halvor:cautious_interest"
+    ],
+    "elara": [
+      "kaito:trusted_advisor_and_confidant",
+      "varen:political_antagonist",
+      "sera_voss:pragmatic_ally",
+      "captain_rennick:loyal_guard_captain",
+      "maester_orin:childhood_tutor",
+      "sister_mira:sympathetic_church_contact",
+      "corvin_thatch:uneasy_commoner_representative",
+      "kael_duskwood:contemptuous_noble",
+      "high_confessor_halvor:spiritual_advisor"
+    ],
+    "varen": [
+      "kaito:existential_threat",
+      "elara:obstacle_to_throne",
+      "sera_voss:useful_but_untrusted",
+      "captain_rennick:secret_asset",
+      "maester_orin:ignored_archivist",
+      "sister_mira:potential_irritant",
+      "corvin_thatch:insignificant_rabble",
+      "kael_duskwood:loyal_nephew_and_tool",
+      "high_confessor_halvor:ideological_opponent"
+    ]
+  },
+  "hidden_alliances": [
+    {
+      "characters": [
+        "captain_rennick",
+        "kael_duskwood"
+      ],
+      "nature": "Rennick secretly supplies Royal Guard patrol routes to Kael in exchange for debt relief, making him an unwitting part of Varen's conspiracy."
+    },
+    {
+      "characters": [
+        "sister_mira",
+        "high_confessor_halvor"
+      ],
+      "nature": "Mira is a Confessor reporting directly to Halvor; their shared mission is to assess Kaito's reforms and the Crown's stability without revealing Church intelligence operations."
+    }
+  ],
+  "characters_to_introduce_later": [
+    {
+      "id": "lord_garrick_harrow",
+      "name": "Lord Garrick Harrow",
+      "role": "Noble Council member, Varen's chief rival",
+      "first_appears_episode": 3,
+      "note": "A proud traditionalist who despises Varen's ambition more than he fears reform; may become Kaito's uneasy ally."
+    },
+    {
+      "id": "lady_isolde_vane",
+      "name": "Lady Isolde Vane",
+      "role": "Young noblewoman of House Vane",
+      "first_appears_episode": 2,
+      "note": "Reform-curious and quietly rebellious against her family's conservatism; possible political ally or romantic complication."
+    },
+    {
+      "id": "deep_marta",
+      "name": "'Deep' Marta",
+      "role": "Veteran miner",
+      "first_appears_episode": 4,
+      "note": "One of the few who has been to the deepest levels of the mines and returned; she refuses to speak of what she saw."
+    },
+    {
+      "id": "chieftain_elspeth_thorn",
+      "name": "Chieftain Elspeth Thorn",
+      "role": "Leader of the Thornwood Clans",
+      "first_appears_episode": 8,
+      "note": "Pragmatic and wary of outsiders; holds knowledge of old magic that predates crystalmancy."
+    },
+    {
+      "id": "old_morwen",
+      "name": "Old Morwen",
+      "role": "Thornwood herbalist and storyteller",
+      "first_appears_episode": 8,
+      "note": "Keeper of oral histories about the pre-crystal age and the catastrophe that ended it."
+    },
+    {
+      "id": "harbormaster_vek",
+      "name": "Harbormaster Vek",
+      "role": "Corrupt port official on the Ashen Coast",
+      "first_appears_episode": 5,
+      "note": "Controls smuggling routes and sells information to the highest bidder; useful but dangerous."
+    },
+    {
+      "id": "silver_sanna",
+      "name": "'Silver' Sanna",
+      "role": "Information broker in Saltmere",
+      "first_appears_episode": 5,
+      "note": "Knows which Veldrath agents operate in Aldoria and keeps that knowledge as her insurance."
+    },
+    {
+      "id": "brother_aldous",
+      "name": "Brother Aldous",
+      "role": "Church archivist",
+      "first_appears_episode": 6,
+      "note": "Knows more about the First Crystal's true nature than he will admit, even to Halvor."
+    },
+    {
+      "id": "dockmaster_pell",
+      "name": "Dockmaster Pell",
+      "role": "Harbor boss in Saltmere",
+      "first_appears_episode": 5,
+      "note": "Runs dockside smuggling with an iron fist; can be bought but never fully trusted."
+    },
+    {
+      "id": "king_aldric",
+      "name": "King Aldric Aldor III",
+      "role": "Ailing King of Aldoria",
+      "first_appears_episode": 2,
+      "note": "His illness is the political vacuum Varen exploits; his lucid moments may yet shape the succession."
+    },
+    {
+      "id": "thane_brynn_ironveil",
+      "name": "Thane Brynn Ironveil",
+      "role": "Dwarven ruler of the northern mountains",
+      "first_appears_episode": 12,
+      "note": "Knows what lies beneath the deepest crystal veins and is watching Aldoria's depletion crisis with ancient concern."
+    }
+  ]
+}
