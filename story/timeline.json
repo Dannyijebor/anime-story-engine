@@ -1,0 +1,348 @@
+{
+  "season_1": {
+    "total_episodes": 20,
+    "overarching_question": "Can a kingdom built on a dying resource survive — and when the last crystal is spent, who will be left standing: the reformer, the princess, or the wolf?",
+    "central_mysteries": [
+      "What is consuming the mana crystals in the deepest mines — and why do miners refuse to speak of it?",
+      "Who is slowly poisoning King Aldric, and what is the poison designed to look like?",
+      "What is the Church's First Crystal truly a fragment of, and what ended the pre-crystal age?",
+      "How far does Varen's conspiracy reach into the Royal Guard, the Merchant Guild, and foreign courts?",
+      "What did Corvin 'Coal' Thatch find in the pre-human ruin beneath the Ironveil Mountains — and why does the shard whisper?"
+    ],
+    "major_turning_points": [
+      {
+        "episode": 5,
+        "event": "Kaito discovers the Royal Crystal Reserve has less than two months of operational capital — not the six months publicly claimed."
+      },
+      {
+        "episode": 10,
+        "event": "Elara survives an assassination attempt during the Harvest Council, and the evidence points to a foreign hand — but Varen deflects suspicion and consolidates power."
+      },
+      {
+        "episode": 15,
+        "event": "Kaito's economic reforms begin to stabilize the treasury, but the deep mines collapse — burying thirty workers and revealing a void where crystal veins used to be."
+      },
+      {
+        "episode": 20,
+        "event": "The season ends with the revelation that the crystal depletion is not natural — something ancient and hungry is waking beneath Aetheria, and Aldoria's collapse is merely the first symptom."
+      }
+    ],
+    "finale_hook": "The last crystal in the Royal Reserve is spent to seal a rift beneath the mines — but the seal will only hold for one year. As the dust settles, a rider from the Thornwood arrives with a message from Old Morwen: 'The pre-crystal age ended in fire. The next one begins in ice.' A second moon appears in the night sky — pale, cracked, and growing."
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "title": "The Ledger of a Dead Man",
+      "logline": "A burnt-out Tokyo CFO wakes in the body of a minor noble advisor and discovers the kingdom he now serves is twelve weeks from bankruptcy.",
+      "main_event": "Kaito Arai awakens in Aldoria, is summoned before Princess Elara and the Noble Council, and delivers an unsolicited audit of the royal finances that stuns the room — and makes an enemy of Lord Varen Duskwood.",
+      "cliffhanger": "As Kaito leaves the Council Chamber, Varen's aide whispers to a guard: 'Watch him. If he touches the ledgers, he dies.'",
+      "foreshadow_planted": [
+        "FC-01",
+        "FC-02",
+        "FC-03"
+      ],
+      "foreshadow_paid_off": [],
+      "new_characters_introduced": [
+        "sera_voss",
+        "captain_rennick",
+        "maester_orin"
+      ],
+      "stakes_level": 2
+    },
+    {
+      "episode_number": 2,
+      "title": "The Silver District Accord",
+      "logline": "Kaito negotiates his first trade agreement with Guildmaster Sera Voss, while Elara confronts the reality of her father's deteriorating condition.",
+      "main_event": "Kaito secures a provisional trade agreement with the Merchant Guild to restructure crystal tariffs; Elara learns from Maester Orin that the King's illness may not be natural.",
+      "cliffhanger": "Sister Mira, observing Kaito from the Rusted Gate, sends a coded message by crystal-light to the Cathedral: 'The outsider sees too much.'",
+      "foreshadow_planted": [
+        "FC-04",
+        "FC-05"
+      ],
+      "foreshadow_paid_off": [],
+      "new_characters_introduced": [
+        "sister_mira",
+        "lady_isolde_vane",
+        "king_aldric"
+      ],
+      "stakes_level": 2
+    },
+    {
+      "episode_number": 3,
+      "title": "The Rusted Gate",
+      "logline": "Kaito visits the slums to understand the kingdom's labor crisis and meets a former miner who knows more than he will say.",
+      "main_event": "Kaito and Elara tour the Rusted Gate, where Corvin 'Coal' Thatch confronts them about the Crown's neglect; Lord Garrick Harrow privately warns Kaito that Varen is building a case against him.",
+      "cliffhanger": "Corvin, alone, pulls a faintly glowing shard from his coat. It whispers. He closes his fist around it and says: 'Not yet.'",
+      "foreshadow_planted": [
+        "FC-06",
+        "FC-07"
+      ],
+      "foreshadow_paid_off": [],
+      "new_characters_introduced": [
+        "corvin_thatch",
+        "lord_garrick_harrow"
+      ],
+      "stakes_level": 2
+    },
+    {
+      "episode_number": 4,
+      "title": "The Deep Levels",
+      "logline": "Kaito travels to the Mana Crystal Mines to audit production and discovers that the depletion is worse than anyone admitted — and that something is wrong in the dark.",
+      "main_event": "Kaito inspects the mines, clashes with Overseer Kael Duskwood, and interviews 'Deep' Marta, who refuses to describe what she saw in the deepest shaft; Kaito realizes the mine's true output has been falsified for years.",
+      "cliffhanger": "A miner runs screaming from the deep shaft, his hair white, his eyes crystal-blue. He dies before he can speak. Kael orders the shaft sealed.",
+      "foreshadow_planted": [
+        "FC-08",
+        "FC-09"
+      ],
+      "foreshadow_paid_off": [],
+      "new_characters_introduced": [
+        "kael_duskwood",
+        "deep_marta"
+      ],
+      "stakes_level": 3
+    },
+    {
+      "episode_number": 5,
+      "title": "The Ashen Coast",
+      "logline": "Kaito and Elara travel to Saltmere to negotiate emergency loans and discover foreign agents are already inside the kingdom.",
+      "main_event": "Kaito meets Harbormaster Vek, Dockmaster Pell, and information broker 'Silver' Sanna; he learns Veldrath agents have been buying up crystal futures and that the Royal Reserve is nearly empty.",
+      "cliffhanger": "High Confessor Maren Halvor arrives in Saltmere unannounced, seeking an audience with Elara — and his first words are: 'Your father is not dying. He is being killed.'",
+      "foreshadow_planted": [
+        "FC-10",
+        "FC-11"
+      ],
+      "foreshadow_paid_off": [],
+      "new_characters_introduced": [
+        "harbormaster_vek",
+        "silver_sanna",
+        "dockmaster_pell",
+        "high_confessor_halvor"
+      ],
+      "stakes_level": 3
+    },
+    {
+      "episode_number": 6,
+      "title": "The Confessor's Archive",
+      "logline": "Halvor reveals the Church's intelligence network and shares a fragment of the truth about the First Crystal — but not all of it.",
+      "main_event": "Kaito, Elara, and Halvor investigate the Cathedral archives with Brother Aldous; they find records of a pre-crystal civilization that collapsed suddenly, and evidence that King Aldric's poison is crystal-based.",
+      "cliffhanger": "Brother Aldous, alone in the archive, removes a hidden tome from a locked case. The title reads: 'On the Hunger Beneath.' He burns it.",
+      "foreshadow_planted": [
+        "FC-12"
+      ],
+      "foreshadow_paid_off": [
+        "FC-01"
+      ],
+      "new_characters_introduced": [
+        "brother_aldous"
+      ],
+      "stakes_level": 3
+    },
+    {
+      "episode_number": 7,
+      "title": "The Wolf's Gambit",
+      "logline": "Varen makes his first open move, accusing Kaito of foreign collusion and demanding his removal from the Council.",
+      "main_event": "Varen presents forged letters allegedly linking Kaito to Veldrath; Elara defends him, but the Council is split. Kaito realizes someone in his inner circle is feeding information to Varen.",
+      "cliffhanger": "Captain Rennick, alone in his quarters, burns a letter bearing the Duskwood sigil. His hands tremble.",
+      "foreshadow_planted": [
+        "FC-13"
+      ],
+      "foreshadow_paid_off": [
+        "FC-02"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 3
+    },
+    {
+      "episode_number": 8,
+      "title": "The Thornwood",
+      "logline": "Kaito and Elara seek allies among the Thornwood Clans, who hold knowledge of the pre-crystal age.",
+      "main_event": "Chieftain Elspeth Thorn and Old Morwen share the clan's oral history: the pre-crystal civilization mined something deeper than mana and woke a hunger that consumed their world. Kaito realizes the pattern is repeating.",
+      "cliffhanger": "Old Morwen presses a carved stone into Elara's hand. 'When the second moon rises, break this. Not before. And do not tell the Church.'",
+      "foreshadow_planted": [
+        "FC-14"
+      ],
+      "foreshadow_paid_off": [
+        "FC-06"
+      ],
+      "new_characters_introduced": [
+        "chieftain_elspeth_thorn",
+        "old_morwen"
+      ],
+      "stakes_level": 3
+    },
+    {
+      "episode_number": 9,
+      "title": "The Harvest Council",
+      "logline": "Elara convenes the full Noble Council to force a vote on Kaito's economic reforms — and Varen springs a trap.",
+      "main_event": "The Council debates the reforms; Lady Isolde Vane breaks with her family to support them; Lord Garrick Harrow abstains; the vote is tied. Varen calls for a recess and uses it to arrange an assassination attempt on Elara.",
+      "cliffhanger": "An arrow grazes Elara's cheek — a second scar, in the same place as the first. The assassin escapes. Varen looks genuinely shocked.",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-04",
+        "FC-05"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 10,
+      "title": "The Midwinter Ledger",
+      "logline": "Kaito's reforms begin to stabilize the treasury, but a deeper betrayal is revealed — and the mines collapse.",
+      "main_event": "Kaito's tariff restructuring and anti-corruption measures produce the first budget surplus in a decade. But Overseer Kael Duskwood's embezzlement is exposed, and in retaliation he orders the deep mines flooded — collapsing thirty shafts and killing miners. Kaito realizes the mine collapse was not just sabotage; something beneath was already consuming the crystal veins.",
+      "cliffhanger": "Kaito, standing at the edge of the collapsed shaft, hears a sound from below — low, rhythmic, and hungry. The ground trembles. A second moon rises over the mountains.",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-03",
+        "FC-08",
+        "FC-09"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 11,
+      "title": "The Veldrath Ultimatum",
+      "logline": "Veldrath openly demands Aldoria cede its northern mining territories or face war — and Varen publicly advocates surrender.",
+      "main_event": "King-Strategist Torvald Veld sends an ultimatum: cede the Ironveil Mines or be invaded. Varen argues the kingdom cannot afford a war and should negotiate. Kaito counters with a plan: instead of ceding territory, offer Veldrath a trade agreement that undercuts their own crystal exports. Elara backs him. The Council is deadlocked.",
+      "cliffhanger": "That night, Kaito receives a letter from an unknown source: 'Varen has already sold the mines. The wolves are already inside.'",
+      "foreshadow_planted": [
+        "FC-15"
+      ],
+      "foreshadow_paid_off": [
+        "FC-07"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 12,
+      "title": "The Thane's Warning",
+      "logline": "Kaito and Corvin travel to the Ironveil Mountains to meet Thane Brynn Ironveil, who reveals what lies beneath the deepest veins.",
+      "main_event": "Thane Brynn reveals that the dwarves stopped mining two hundred years ago — not because the crystals ran out, but because they broke into something else. He shows Kaito a sealed gate carved with ancient runes. 'The crystals are not fuel,' he says. 'They are a cage. And the cage is breaking.'",
+      "cliffhanger": "Corvin's crystal shard flares with light and a voice speaks through it — not a whisper this time, but a word: 'Soon.' Thane Brynn goes pale. 'That is not a word. That is a name.'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-10"
+      ],
+      "new_characters_introduced": [
+        "thane_brynn_ironveil"
+      ],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 13,
+      "title": "The Poisoner's Trail",
+      "logline": "Elara and Captain Rennick hunt the poisoner who has been slowly killing King Aldric — and the trail leads somewhere unexpected.",
+      "main_event": "Elara discovers that the poison was administered by a Court physician who fled the capital weeks ago — but the physician was paid by a chain of intermediaries that leads to House Vane, not Duskwood. Lady Isolde Vane is arrested. She protests her innocence and claims her mother ordered the poisoning.",
+      "cliffhanger": "In the Vane estate, Lady Isolde's mother is found dead — suicide, the guards say. But the blade in her hand is Varen's ceremonial dagger, and her note is signed with the wolf sigil.",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-11",
+        "FC-13"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 14,
+      "title": "The Second Moon",
+      "logline": "As the second moon grows larger in the sky, strange events spread across the kingdom — and Varen makes his move for the throne.",
+      "main_event": "Crystal-powered infrastructure begins to fail randomly across the kingdom; miners report nightmares; livestock are born with crystal growths. Varen calls an emergency session of the Council and demands Elara step down as regent, citing the omens as divine judgment. Kaito counters with evidence that the infrastructure failures match the pattern of the pre-crystal collapse. The Council is terrified and divided.",
+      "cliffhanger": "Varen, alone with his most trusted agents, says: 'The omens serve our purpose. Accelerate the timetable. The princess dies tonight — and the outsider with her.'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-12",
+        "FC-14"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 4
+    },
+    {
+      "episode_number": 15,
+      "title": "The Long Night",
+      "logline": "Varen's assassins strike at Elara and Kaito — and the kingdom teeters on the edge of civil war.",
+      "main_event": "Varen's assassins attack the Royal Castle; Captain Rennick dies defending Elara, confessing his betrayal with his last breath. Kaito and Elara escape into the Rusted Gate, where Corvin hides them. The Royal Guard is split; Varen declares Elara dead and claims the regency. Lord Garrick Harrow, disgusted by the assassination, withdraws his house's support from the Council and declares for Elara — splitting the nobility.",
+      "cliffhanger": "Kaito, Elara, and Corvin watch from the Rusted Gate as Varen's forces secure the castle. Elara's hand goes to the carved stone Old Morwen gave her. 'When the second moon rises,' she whispers. 'It's rising now.'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-15"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    },
+    {
+      "episode_number": 16,
+      "title": "The Stone and the Shard",
+      "logline": "Elara breaks the carved stone, and its contents reveal a path to the deep ruins beneath the mines — and a weapon against what sleeps there.",
+      "main_event": "The stone contains a map to the pre-human ruin where Corvin found his shard, and a warning: the only way to stop the Hunger is to seal it with a resonant crystal — the last of its kind, hidden in the Thornwood. Kaito realizes the Church's First Crystal is the key. Elara sends word to High Confessor Halvor, who agrees to meet them — but Varen's spies intercept the message.",
+      "cliffhanger": "Halvor receives the message, then turns to Brother Aldous. 'Prepare the First Crystal for travel. And prepare the Confessors for war.' Aldous nods — but as he leaves, he pockets a small black crystal.",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-05"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    },
+    {
+      "episode_number": 17,
+      "title": "The Wolf and the Crown",
+      "logline": "Varen consolidates power in Aurelian while Kaito and Elara race to reach the Thornwood and retrieve the resonant crystal.",
+      "main_event": "Varen is crowned regent in a ceremony boycotted by half the noble houses. He sends Kael Duskwood with a company of soldiers to intercept Elara. Kaito, Elara, Corvin, and a handful of loyal guards flee the capital. Sera Voss, seeing which way the wind is blowing, provides them with supplies — but also sends a message to her Veldrath contacts warning them of the group's destination.",
+      "cliffhanger": "Sera, alone in her office, writes a second letter: 'If the princess reaches the Thornwood, kill her. If she does not, kill Varen. Either way, the Guild survives.'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-04"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    },
+    {
+      "episode_number": 18,
+      "title": "The Deep Ruin",
+      "logline": "Kaito, Elara, and Corvin descend into the pre-human ruin beneath the mines, where they discover the truth of the Hunger — and what it wants.",
+      "main_event": "In the ruin, they find murals depicting the pre-crystal civilization: they mined a black crystal called voidstone, which fed on mana. When they tried to use it as a power source, it consumed them. The Hunger is a voidstone entity — and it has been growing for two hundred years. The crystals in the Ironveil Mines were not merely mineral deposits; they were the bars of its cage. Every crystal mined weakened the prison. Corvin's shard is a fragment of the original cage — and it is the key to resealing the Hunger.",
+      "cliffhanger": "The Hunger speaks through Corvin's shard: 'You are the first to come willingly. The last ones screamed. I remember their names. Would you like to hear them?'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-07",
+        "FC-10",
+        "FC-13"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    },
+    {
+      "episode_number": 19,
+      "title": "The Battle of the Thornwood",
+      "logline": "Kael Duskwood's soldiers attack as Kaito and Elara race to the Thornwood to retrieve the resonant crystal.",
+      "main_event": "A three-way battle erupts in the Thornwood: Kael's soldiers, the Thornwood Clans, and a Veldrath raiding party that followed Kaito from the capital. Chieftain Elspeth Thorn is mortally wounded. Old Morwen leads Kaito and Elara to the Whispering Stones, where the resonant crystal is hidden. They retrieve it, but Kael captures Elara. Kaito offers himself in exchange — and Kael accepts, planning to execute him publicly in Aurelian.",
+      "cliffhanger": "As Kaito is dragged away, he presses the resonant crystal into Corvin's hand. 'Get it to the mine. Seal the rift. Don't worry about me.' Corvin, for the first time, calls him by name: 'Kaito. I will.'",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-01",
+        "FC-11"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    },
+    {
+      "episode_number": 20,
+      "title": "The Second Moon Rises",
+      "logline": "Kaito faces execution, Varen faces rebellion, and Corvin races to seal the rift before the Hunger breaks free — but the true scope of the catastrophe is only beginning to reveal itself.",
+      "main_event": "Kaito is brought to Aurelian for public execution. Varen presides. Elara, having escaped with Lord Garrick Harrow's help, arrives with a coalition of loyal nobles and Thornwood warriors. A battle erupts in the capital. Meanwhile, Corvin and a team of miners descend into the collapsed shaft with the resonant crystal. They find the rift — a tear in the earth filled with black crystal — and Corvin seals it, but the effort consumes the crystal and nearly kills him. The rift closes, but the ground continues to tremble. The Hunger is contained — not defeated. Varen, seeing the tide turn, escapes into the wilderness with Kael. Kaito is rescued, but the Royal Crystal Reserve is now completely empty. As the kingdom celebrates survival, the second moon cracks — and from the fissure, a beam of pale light strikes the Ironveil Mountains. Old Morwen's warning echoes: 'The pre-crystal age ended in fire. The next one begins in ice.'",
+      "cliffhanger": "A rider from the Thornwood arrives at the capital, exhausted and frostbitten. He carries a single message from Old Morwen: 'The Hunger was the first. There are others. And they are waking.' Above the mountains, the second moon cracks further — and something begins to descend.",
+      "foreshadow_planted": [],
+      "foreshadow_paid_off": [
+        "FC-02",
+        "FC-03",
+        "FC-06",
+        "FC-08",
+        "FC-09",
+        "FC-12",
+        "FC-14"
+      ],
+      "new_characters_introduced": [],
+      "stakes_level": 5
+    }
+  ]
+}
