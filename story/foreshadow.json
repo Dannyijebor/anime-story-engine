@@ -1,0 +1,145 @@
+{
+  "foreshadow_entries": [
+    {
+      "clue_id": "FC-01",
+      "planted_episode": 1,
+      "pays_off_episode": 6,
+      "description": "As Kaito exits the Council Chamber, Varen's aide mutters to a guard: 'Watch him. If he touches the ledgers, he dies.' The guard nods without expression.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "council chamber exit — whispered threat between Varen's aide and a guard",
+      "payoff_scene_hint": "cathedral archive investigation — Kaito finds a ledger entry showing the previous royal accountant was found dead the day after auditing Duskwood accounts"
+    },
+    {
+      "clue_id": "FC-02",
+      "planted_episode": 1,
+      "pays_off_episode": 7,
+      "description": "During the Council session, a close-up reveals a silver ring on Lord Harrow's finger bearing a three-crossed-swords motif — the sigil of Veldrath.",
+      "category": "external_threat",
+      "planted_scene_hint": "council chamber — close-up insert shot of a noble's hand during the audit reading",
+      "payoff_scene_hint": "council hearing — Kaito recognizes the same crossed-swords motif on the wax seal of the forged letters Varen presents"
+    },
+    {
+      "clue_id": "FC-03",
+      "planted_episode": 1,
+      "pays_off_episode": 10,
+      "description": "Maester Orin tells Kaito the Royal Crystal Reserve holds 'six months of operational capital, by the official tally' — then pauses, adjusts his spectacles, and adds 'by the official tally' a second time, more quietly.",
+      "category": "external_threat",
+      "planted_scene_hint": "royal library — quiet conversation between Kaito and Orin over dusty ledgers",
+      "payoff_scene_hint": "crystal vault inspection — Kaito opens the vault and finds it nearly empty; Orin admits the true figure is eight weeks"
+    },
+    {
+      "clue_id": "FC-04",
+      "planted_episode": 2,
+      "pays_off_episode": 9,
+      "description": "Captain Rennick is seen slipping out a side door of the Duskwood wing of the castle late at night, adjusting his collar and looking over his shoulder.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "castle corridor at night — silent visual of Rennick leaving a restricted wing",
+      "payoff_scene_hint": "harvest council assassination attempt — Rennick is conspicuously absent from his post when the arrow flies, and a guard notes he 'had an errand'"
+    },
+    {
+      "clue_id": "FC-05",
+      "planted_episode": 2,
+      "pays_off_episode": 9,
+      "description": "King Aldric's hands tremble in a slow, rhythmic pattern — three small spasms, then stillness, then three again — as he reaches for a glass of water during Elara's visit.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "royal bedchamber — intimate scene of Elara visiting her father; close-up on his trembling hands",
+      "payoff_scene_hint": "harvest council aftermath — Elara recognizes the same tremor pattern in a council servant and realizes it matches crystal-dust poisoning"
+    },
+    {
+      "clue_id": "FC-06",
+      "planted_episode": 3,
+      "pays_off_episode": 8,
+      "description": "Corvin 'Coal' Thatch, alone in his Rusted Gate hovel, pulls a faintly glowing crystal shard from his coat. It whispers — a low, rhythmic sound like breath. He closes his fist around it and says: 'Not yet.'",
+      "category": "external_threat",
+      "planted_scene_hint": "Rusted Gate hovel at night — solitary scene of Corvin with the shard",
+      "payoff_scene_hint": "Thornwood clan village — Old Morwen recognizes the shard as a fragment of the original cage and explains what it is"
+    },
+    {
+      "clue_id": "FC-07",
+      "planted_episode": 3,
+      "pays_off_episode": 11,
+      "description": "Lord Garrick Harrow corners Kaito in a corridor and says quietly: 'Varen has been corresponding with someone in the eastern court. I have seen the seal. Three swords, crossed.' He walks away before Kaito can respond.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "castle corridor — brief, tense exchange between Harrow and Kaito",
+      "payoff_scene_hint": "council session — Veldrath ultimatum arrives; Kaito connects the crossed-swords seal to Varen's correspondence and confronts him publicly"
+    },
+    {
+      "clue_id": "FC-08",
+      "planted_episode": 4,
+      "pays_off_episode": 10,
+      "description": "A miner runs screaming from the deep shaft, his hair turned white, his eyes glowing faint crystal-blue. He collapses and dies before he can speak. Kael orders the shaft sealed.",
+      "category": "external_threat",
+      "planted_scene_hint": "mine entrance — chaotic scene of a dying miner emerging from the deep shaft",
+      "payoff_scene_hint": "mine collapse aftermath — Kaito realizes the miner's crystal-blue eyes match the growths appearing on livestock and the pattern of infrastructure failures"
+    },
+    {
+      "clue_id": "FC-09",
+      "planted_episode": 4,
+      "pays_off_episode": 10,
+      "description": "'Deep' Marta rolls up her sleeve to show Kaito a scar on her forearm — the flesh around it has a faint, crystalline sheen that catches the lamplight. She says nothing, only watches his reaction.",
+      "category": "external_threat",
+      "planted_scene_hint": "miner bunkhouse — quiet interview between Kaito and Marta",
+      "payoff_scene_hint": "mine collapse aftermath — Kaito sees the same crystalline sheen on the bodies of miners pulled from the rubble, and understands what the deep levels do to human flesh"
+    },
+    {
+      "clue_id": "FC-10",
+      "planted_episode": 5,
+      "pays_off_episode": 12,
+      "description": "'Silver' Sanna leans close to Kaito in the Drowned Rat and murmurs: 'Veldrath is not buying crystal. They are buying silence. Ask yourself who in Aurelian has been paid to stop talking.'",
+      "category": "external_threat",
+      "planted_scene_hint": "dockside tavern — whispered conversation over drinks",
+      "payoff_scene_hint": "Ironveil Mountains — Thane Brynn reveals the dwarves stopped mining two hundred years ago and have been paying Aldorian nobles to keep the deep shafts sealed"
+    },
+    {
+      "clue_id": "FC-11",
+      "planted_episode": 5,
+      "pays_off_episode": 13,
+      "description": "High Confessor Halvor tells Elara: 'Your father is not dying. He is being killed.' When she demands a name, he says only: 'The hand is noble. The coin is foreign. The order is old.'",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "Saltmere chapel — private audience between Halvor and Elara",
+      "payoff_scene_hint": "Vane estate investigation — Elara uncovers the poison payment chain leading from House Vane through foreign intermediaries to Varen's coffers"
+    },
+    {
+      "clue_id": "FC-12",
+      "planted_episode": 6,
+      "pays_off_episode": 14,
+      "description": "Brother Aldous, alone in the archive after Kaito and Elara leave, removes a hidden tome from a locked case. The title reads 'On the Hunger Beneath.' He feeds it into the brazier and watches it burn.",
+      "category": "external_threat",
+      "planted_scene_hint": "cathedral archive — solitary scene of Aldous burning the book",
+      "payoff_scene_hint": "kingdom-wide omens — Kaito realizes the pre-crystal collapse followed the same pattern as the current infrastructure failures, and that Aldous destroyed evidence"
+    },
+    {
+      "clue_id": "FC-13",
+      "planted_episode": 7,
+      "pays_off_episode": 13,
+      "description": "Captain Rennick, alone in his quarters, burns a letter bearing the Duskwood wolf sigil. His hands tremble as he holds the paper to the candle flame.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "Royal Guard captain's quarters — solitary night scene of Rennick burning a letter",
+      "payoff_scene_hint": "Vane estate investigation — Elara finds a ledger of payments from House Duskwood to a 'Captain R.' and confronts Rennick, who confesses his betrayal"
+    },
+    {
+      "clue_id": "FC-14",
+      "planted_episode": 8,
+      "pays_off_episode": 14,
+      "description": "Old Morwen presses a carved stone into Elara's hand and says: 'When the second moon rises, break this. Not before. And do not tell the Church.' The stone is warm to the touch.",
+      "category": "external_threat",
+      "planted_scene_hint": "Thornwood clan village — Old Morwen's hut, firelit, quiet",
+      "payoff_scene_hint": "second moon appearance — Elara feels the stone grow hot as the second moon rises; she prepares to break it as instructed"
+    },
+    {
+      "clue_id": "FC-15",
+      "planted_episode": 11,
+      "pays_off_episode": 15,
+      "description": "Kaito receives an unsigned letter slipped under his door: 'Varen has already sold the mines. The wolves are already inside.' The handwriting is unfamiliar, but the paper smells faintly of Veldrath incense.",
+      "category": "varen_conspiracy",
+      "planted_scene_hint": "Kaito's chambers — discovery of the anonymous letter at dawn",
+      "payoff_scene_hint": "Long Night assassination — Varen's assassins strike inside the castle, proving the wolves were already inside as the letter warned"
+    }
+  ],
+  "meta": {
+    "total_entries": 15,
+    "varen_conspiracy_count": 7,
+    "external_threat_count": 8,
+    "average_episodes_between_plant_and_payoff": 6.5
+  }
+}
